@@ -1,4 +1,4 @@
-#!C:\Users\Samurai Jack\PycharmProjects\DomainClassification\venv\Scripts\python.exe
+#!F:\development\Data-Scraper\venv\Scripts\python.exe
 
 import sys
 import json
